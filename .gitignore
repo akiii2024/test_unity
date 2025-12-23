@@ -1,0 +1,64 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+/UserSettings/
+/Recording/
+
+# Asset store / cache
+/Assets/AssetStoreTools*
+*.unitypackage
+
+# Gradle cache / Android
+/Library/Gradle/
+/Library/Bee/
+gradle-app.settings
+gradle-wrapper.jar
+*.apk
+*.aab
+*.obb
+
+# Visual Studio / Rider / VSCode
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.idea/
+*.sln.dotsettings
+.vscode/
+
+# Crash reports / backups
+sysinfo.txt
+*.stacktrace
+*.log
+*.orig
+*.bak
+
+# Unity cloud / collaboration
+/Library/Collab/
+
+# Lightmaps / baked data generated locally
+/Assets/BakedData/
+
+# Meta files should stay tracked; disable default OS ignores
+!*.meta
+
+# Package Manager
+/Packages/com.unity.collab-proxy/
+
+# Ignore local addressables build/cache
+/ServerData/
+/AddressablesBuildPath/
+
+
